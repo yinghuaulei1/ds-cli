@@ -11,7 +11,7 @@ import java.util.List;
 
 public class DeepSeekAgentCLI {
 
-    private static final String API_KEY = "sk-cb927fe2d732403e8cadfa76e017d043";
+    private static final String API_KEY = "sk-dsfadsfdsafdsafsdafasdf";
     private static final String URL = "https://api.deepseek.com/v1/chat/completions";
 
     private static final ObjectMapper mapper = new ObjectMapper();
